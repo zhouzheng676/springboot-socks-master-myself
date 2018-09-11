@@ -1,0 +1,12 @@
+server:
+  context-path: /springdemo
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/socks?useSSL=false
+    username: root
+    password: oo0oo0oo0
+    driver-class-name: com.mysql.jdbc.Driver
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+      

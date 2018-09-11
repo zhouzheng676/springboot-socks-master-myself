@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-websocket-chat
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zhouz
+Implementation-Vendor-Id: com.hehe
+Build-Jdk: 1.8.0_05
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-websocket-chat
+Created-By: Maven Integration for Eclipse
+
